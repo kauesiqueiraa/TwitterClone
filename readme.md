@@ -1,5 +1,7 @@
 # Projeto Clone - Twitter Ui
 
+![Home](./src/assets/tela_home.png)
+
 ## Feito o front utilizando React através do Vite com Typescript
 
 ## Bibliotecas utilizadas:
@@ -14,5 +16,3 @@
 ### Podendo postar um tweet, e vizualizar status do tweet.
 
 ### Em breve segue mais atualizações!
-
-![Home](./src/assets/tela_home.png)
